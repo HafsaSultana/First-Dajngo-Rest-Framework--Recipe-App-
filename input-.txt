@@ -1,0 +1,23 @@
+recipe -
+{
+  "title": "Ice-Cream",
+  "category": [{"name": "Dessert"}],
+  "description": "Cold and needed in summer",
+  "ingredient_list": "milk",
+  "introduction": "Mix well and freeze it",
+  "tags": "#cold, #fev, #love"
+}
+
+
+login-
+{
+    "username": "admin",
+    "password": "Password@123"
+}
+
+register-
+{
+    "username": "admin",
+    "email": "admin@bot.com",
+    "password": "Password@123"
+}
